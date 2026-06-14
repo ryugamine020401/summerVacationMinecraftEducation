@@ -1,0 +1,27 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ChemistryPlus BP",
+    "description": "Day1 behavior pack for ChemistryPlus",
+    "uuid": "4afb9468-5dc8-4c85-9d7d-e056d280a36f",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "ChemistryPlus behavior module",
+      "type": "data",
+      "uuid": "0b9bd82f-5aae-491a-bdfe-9ae6531051d2",
+      "version": [1, 0, 0]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "07207185-e842-4c87-b88d-3fd6ca1467de",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["YourName"]
+  }
+}

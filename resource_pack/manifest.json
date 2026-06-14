@@ -1,0 +1,21 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "ChemistryPlus RP",
+    "description": "Day1 resource pack for ChemistryPlus",
+    "uuid": "07207185-e842-4c87-b88d-3fd6ca1467de",
+    "version": [1, 0, 0],
+    "min_engine_version": [1, 20, 0]
+  },
+  "modules": [
+    {
+      "description": "ChemistryPlus resource module",
+      "type": "resources",
+      "uuid": "fe3b17b6-b477-458e-b9fd-e1e9bd8b4b11",
+      "version": [1, 0, 0]
+    }
+  ],
+  "metadata": {
+    "authors": ["YourName"]
+  }
+}
