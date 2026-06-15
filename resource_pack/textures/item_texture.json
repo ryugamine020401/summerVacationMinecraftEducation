@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "ChemistryPlus RP",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "chemistry_plus:potassium_metal": {
+      "textures": "textures/items/potassium_metal"
+    }
+  }
+}
