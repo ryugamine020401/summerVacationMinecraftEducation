@@ -2,17 +2,17 @@
   "format_version": "1.21.80",
   "minecraft:block": {
     "description": {
-      "identifier": "chemistry_plus:potassium_metal_block",
+      "identifier": "chemistry_plus:lithium_metal_block",
       "menu_category": {
         "category": "construction"
       }
     },
     "components": {
-      "minecraft:display_name": "鉀金屬方塊",
+      "minecraft:display_name": "鋰金屬方塊",
       "minecraft:geometry": "minecraft:geometry.full_block",
       "minecraft:material_instances": {
         "*": {
-          "texture": "chemistry_plus:potassium_metal_block",
+          "texture": "chemistry_plus:lithium_metal_block",
           "render_method": "opaque"
         }
       },
@@ -20,12 +20,12 @@
         "geometry": "minecraft:geometry.full_block",
         "material_instances": {
           "*": {
-            "texture": "chemistry_plus:potassium_metal_block",
+            "texture": "chemistry_plus:lithium_metal_block",
             "render_method": "opaque"
           }
         }
       },
-      "minecraft:map_color": "#d6c15a",
+      "minecraft:map_color": "#c6cad0",
       "minecraft:destructible_by_mining": {
         "seconds_to_destroy": 2
       }

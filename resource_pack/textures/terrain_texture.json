@@ -4,26 +4,23 @@
   "padding": 8,
   "num_mip_levels": 4,
   "texture_data": {
+    "chemistry_plus:lithium_metal_block": {
+      "textures": "textures/blocks/lithium_metal_block"
+    },
+    "chemistry_plus:sodium_metal_block": {
+      "textures": "textures/blocks/sodium_metal_block"
+    },
     "chemistry_plus:potassium_metal_block": {
       "textures": "textures/blocks/potassium_metal_block"
     },
-    "chemistry_plus:potassium_metal_block_1": {
-      "textures": "textures/blocks/potassium_metal_block_1"
+    "chemistry_plus:rubidium_metal_block": {
+      "textures": "textures/blocks/rubidium_metal_block"
     },
-    "chemistry_plus:potassium_metal_block_2": {
-      "textures": "textures/blocks/potassium_metal_block_2"
+    "chemistry_plus:cesium_metal_block": {
+      "textures": "textures/blocks/cesium_metal_block"
     },
-    "chemistry_plus:potassium_metal_block_3": {
-      "textures": "textures/blocks/potassium_metal_block_3"
-    },
-    "chemistry_plus:potassium_metal_block_4": {
-      "textures": "textures/blocks/potassium_metal_block_4"
-    },
-    "chemistry_plus:potassium_metal_block_5": {
-      "textures": "textures/blocks/potassium_metal_block_5"
-    },
-    "chemistry_plus:potassium_metal_block_6": {
-      "textures": "textures/blocks/potassium_metal_block_6"
+    "chemistry_plus:francium_metal_block": {
+      "textures": "textures/blocks/francium_metal_block"
     }
   }
 }

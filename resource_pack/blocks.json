@@ -1,6 +1,21 @@
 {
   "format_version": "1.19.30",
+  "chemistry_plus:lithium_metal_block": {
+    "sound": "stone"
+  },
+  "chemistry_plus:sodium_metal_block": {
+    "sound": "stone"
+  },
   "chemistry_plus:potassium_metal_block": {
+    "sound": "stone"
+  },
+  "chemistry_plus:rubidium_metal_block": {
+    "sound": "stone"
+  },
+  "chemistry_plus:cesium_metal_block": {
+    "sound": "stone"
+  },
+  "chemistry_plus:francium_metal_block": {
     "sound": "stone"
   }
 }
